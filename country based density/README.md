@@ -1,17 +1,5 @@
-OpenStreetMap GPS point data visualization
-==========================================
+In this folder are some code attempts of computing a country based OSM GPS density.  
 
-In this repository are code and output of an exercise on visualizing big datasets we did at [Big Dive](http://www.bigdive.eu).  
+For each coordinate point having more than one GPS hits we check which country it belongs to using the borders shape file and than we compute some average figure about OpenStreeMap contribution per country.  
 
-The aim of the execise was visualizing the density of the [GPS point dataset of OpenStreetMap](http://blog.osmfoundation.org/2012/04/01/bulk-gps-point-data/).  
-
- 
-
-
-
-
-
-
-
-compute the number/density of
-OpenStreetMap points of that grid
+Since it is a computationally intensive task, we coded a multithreaded version meant to be executed with Jython and a C powered one featuring Cython.
