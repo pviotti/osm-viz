@@ -16,7 +16,7 @@ Technologies
 
 Authors
 -------
-[Luca Bonavita](http://www.mindrones.com/), [Marcello Pietri](http://weblab.ing.unimo.it/people/pietri/), [Roberto Piuca](http://www.linkedin.com/in/robertopiuca), [Paolo Viotti](https://github.com/pviotti/cv/raw/master/VIOTTI_Paolo-CV.pdf).  
+[Luca Bonavita](http://www.mindrones.com/), [Marcello Pietri](http://www.marcellopietri.com), [Roberto Piuca](http://www.linkedin.com/in/robertopiuca), [Paolo Viotti](https://github.com/pviotti/cv/raw/master/VIOTTI_Paolo-CV.pdf).  
 This was an exercise on visualizing big datasets we did at [Big Dive](http://www.bigdive.eu).
 
 
